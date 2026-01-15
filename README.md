@@ -13,7 +13,7 @@
 - [Twitter](#)   <!-- Replace # with your Twitter URL -->
 - [Instagram](https://www.instagram.com/the_vishwajeetkumar/) <!-- Replace # with your Instagram URL if different -->
 - [Facebook](https://www.facebook.com/theVISHWAJEETKUMAR)  <!-- Replace # with your Facebook URL if different -->
-- Email](mailto:your-vk0688740@gmail.com) <!-- Replace with your email -->
+- [Email](vk0688740@gmail.com) <!-- Replace with your email -->
 
 ---
 
