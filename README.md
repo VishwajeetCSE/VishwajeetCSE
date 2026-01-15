@@ -30,7 +30,9 @@
 ### 🏠 FixMyHome – Home Service Booking Web App  
 A web-based project focused on providing fast and reliable home services through a clean and responsive user interface.
 
-🔗 Project link will be added soon.
+🔗 Project Repository:  
+https://github.com/vishwajeet-kumar/fixmyhome
+
 
 ---
 
