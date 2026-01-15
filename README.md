@@ -9,11 +9,11 @@
 ## 🌐 Connect with me
 
 <!-- Add your social media links below -->
-- [LinkedIn](#) <!-- Replace # with your LinkedIn URL -->
+- [LinkedIn](https://www.linkedin.com/in/vishwajeet-kumar-752606237/) <!-- Replace # with your LinkedIn URL -->
 - [Twitter](#)   <!-- Replace # with your Twitter URL -->
 - [Instagram](https://www.instagram.com/the_vishwajeetkumar/) <!-- Replace # with your Instagram URL if different -->
 - [Facebook](https://www.facebook.com/theVISHWAJEETKUMAR)  <!-- Replace # with your Facebook URL if different -->
-- Email: [vk0688740@gmail.com](mailto:your-vk0688740@gmail.com) <!-- Replace with your email -->
+- Email](mailto:your-vk0688740@gmail.com) <!-- Replace with your email -->
 
 ---
 
@@ -31,7 +31,7 @@
 A web-based project focused on providing fast and reliable home services through a clean and responsive user interface.
 
 🔗 Project Repository:  
-https://github.com/vishwajeet-kumar/fixmyhome
+[https://github.com/vishwajeet-kumar/fixmyhome](https://mehul01010.github.io/fFxMyHome/)
 
 
 ---
