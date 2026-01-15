@@ -13,12 +13,13 @@
 - [Twitter](#)   <!-- Replace # with your Twitter URL -->
 - [Instagram](https://www.instagram.com/the_vishwajeetkumar/) <!-- Replace # with your Instagram URL if different -->
 - [Facebook](https://www.facebook.com/theVISHWAJEETKUMAR)  <!-- Replace # with your Facebook URL if different -->
-- Email: [your-email@example.com](mailto:your-email@example.com) <!-- Replace with your email -->
+- Email: [your-email@example.com](mailto:your-vk0688740.com) <!-- Replace with your email -->
 
 ---
 
 ## 🚀 Skills
 
+- Java
 - C++
 - Problem Solving
 
@@ -26,7 +27,10 @@
 
 ## 📂 Projects
 
-*Currently, I don't have any public projects. Stay tuned for future updates!*
+### 🏠 FixMyHome – Home Service Booking Web App  
+A web-based project focused on providing fast and reliable home services through a clean and responsive user interface.
+
+🔗 Project link will be added soon.
 
 ---
 
