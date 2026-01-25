@@ -21,7 +21,7 @@
 
 - Java
 - C++
-- Problem Solving
+-
 
 ---
 
